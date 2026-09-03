@@ -74,8 +74,8 @@ Code • Coffee • Debug • Repeat ☕💻
 
 </p>
 
-<!-- Smooth light multi-color flowing footer -->
+<!-- Same wave — only animation speed increased -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:42A5F5,12:26C6DA,25:66BB6A,37:9CCC65,50:FFCA28,62:FF7043,75:EC407A,88:AB47BC,100:7E57C2&animation=twinkling&speed=180" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:42A5F5,12:26C6DA,25:66BB6A,37:9CCC65,50:FFCA28,62:FF7043,75:EC407A,88:AB47BC,100:7E57C2&animation=twinkling&speed=260" width="100%"/>
 </p>
