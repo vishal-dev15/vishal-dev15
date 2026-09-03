@@ -1,73 +1,75 @@
-# **Hey there, I'm Vishal Chaudhary! 👋**
+Hey there!  Vishal Chaudhary👋
 
-## **About Me**
+About Me
 
-So, here’s the deal: I’m Vishal, navigating the world of code (and occasional bugs) while pursuing my B.Tech at Galgotias University. I’m not just cruising, though—I’m making pit stops at cool projects and leveling up my skills along the way!
+I'm a CSE student at Galgotias University and currently working as an SDE Intern at ITJOBXS, learning by building things and figuring out bugs along the way.
+🏆 Won 2 hackathons — one at Galgotias University and one international hackathon with institutions from Singapore & Maldives.
+🌱 Currently learning AI/ML while improving my Java, DSA, and full-stack development skills.
+👯 Open to collaborating on Web Development / AI/ML projects and always happy to talk about Web Development & Web Technologies.
 
-🏆 Won a couple of hackathons—one at Galgotias and another international one (yes, I’m looking at you, Singapore & Maldives!).  
-🌱 Learning AI/ML to add more magic to my tech toolkit.  
-👯 Open for collaborations on Web Dev or AI/ML projects—let’s build something awesome!  
-💬 Feel free to ask me about Web Development or any tech riddle you have.
+My Tech Toolkit ✨
 
-## **My Tech Toolkit ✨**
+Frontend Fanatic: I make websites not just look pretty but actually make sense — pixels with purpose!
 
-- **Frontend Fanatic:** I make websites not just look pretty but actually make sense—pixels with purpose!
-- **Java Explorer:** Writing Java, solving DSA, and occasionally pretending my coffee is Java too. ☕
-- **Backend Learner:** Playing with APIs, databases, and trying not to break the server (no promises!).
+Java Explorer: Writing Java, solving DSA, and occasionally pretending my coffee is Java too. ☕
+
+Backend Learner: Exploring APIs, Flask, databases, and full-stack development.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="80"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="90"/>
 </p>
 
-## **💼 Experience**
+💼 Experience
 
-### **🚀 SDE Intern — ITJOBXS**
+🚀 SDE Intern — ITJOBXS
 
-**August 2026 – Present | Remote, India**
+August 2026 – Present | Remote, India
 
-Crafting responsive web interfaces with **React, APIs, and authentication**, while working on data verification and user-friendly features.  
-Also contributing to **fake-bot detection, security, and new features** to keep things running smoothly.
+Building responsive web pages and reusable ReactJS components.
 
-### **👨‍🏫 Mentor Intern — HCL GUVI**
+Contributing to UI development, API integration, data verification, and authentication.
 
-**August 2025**
+Working with HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Styled Components.
 
-Guided **50+ students** during the JIGSAW Internship, helping with Java, Python, web development, debugging, and programming concepts.
+Integrating Google reCAPTCHA and contributing to fake-bot and fraudulent-post detection.
 
-## **📊 GitHub Stats**
+Contributing to new features and API development with the team.
 
-<p align="center">
+👨‍🏫 Mentor Intern — HCL GUVI
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190"/>
+August 2025
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+Guided 50+ learners during the JIGSAW Internship.
 
-</p>
+Helped resolve Java, Python, and web-development queries.
 
-<p align="center">
+Supported debugging, troubleshooting, and programming concepts.
 
-<img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=dark&hide_border=true&ring=14532D&fire=14532D&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=171717&stroke=171717" width="850"/>
-
-</p>
-
-## **🤝 Connect With Me**
-
-**LinkedIn:** [Vishal Chaudhary](https://www.linkedin.com/in/vishal-chaudhary-23a946299/)
-
-**Email:** [vishalc362535@gmail.com](mailto:vishalc362535@gmail.com)
+📊 GitHub Stats
 
 <p align="center">
-
-Got a cool idea or just want to chat? I’m just a message away—no bots, only Vishal! 😄
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=dark&hide_border=true&ring=14532D&fire=14532D&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=171717&stroke=171717" width="850"/>
+</p>
 
-**Code • Coffee • Debug • Repeat ☕💻**
+🤝 Connect With Me
+
+LinkedIn: Vishal Chaudhary
+
+Email: vishalc362535@gmail.com
+
+<p align="center">
+
+Code • Coffee • Debug • Repeat ☕💻
 
 </p>
 
+<!-- Light multi-color flowing wave -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0A0F1E,25:16213E,50:1E3C72,75:243B55,100:0F2027&animation=twinkling&speed=100" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:42A5F5,15:66BB6A,30:FFCA28,45:FF7043,60:AB47BC,75:26C6DA,90:EC407A,100:7E57C2&animation=twinkling&speed=180" width="100%"/>
 </p>
