@@ -1,7 +1,7 @@
-<h1 align="center"> <strong>Hey there, I'm Vishal Chaudhary! 👋</strong>
-</h1>
+# Hey there, I'm Vishal Chaudhary! 👋
 
 ## **About Me**
+
 Hey there! I'm diving into the world of computer science while pursuing my B.Tech in CSE at Galgotias University. Currently, I'm working as an SDE Intern at ITJOBXS, where I turn ideas into features, write code, break things, and then proudly fix what I broke. 😄 I've also managed to win two hackathons along the way, and now I'm exploring AI/ML while sharpening my Java, DSA, and full-stack skills. 🚀
 
 ## **My Tech Toolkit ✨**
