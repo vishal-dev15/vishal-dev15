@@ -6,37 +6,21 @@ Hey there, I'm Vishal Chaudhary! 👋
 
 About Me
 
-Hey there! I'm Vishal Chaudhary, a Computer Science Engineering student at Galgotias University with a strong interest in software development, problem solving, and web development.
+Hey there! I'm Vishal Chaudhary, a Computer Science Engineering student at Galgotias University, passionate about software development, problem solving, and building responsive web applications.
 
-Currently, I'm working as an SDE Intern at ITJOBXS, where I'm contributing to responsive web development, ReactJS components, API integration, authentication, data verification, and website security.
+Currently, I'm working as an SDE Intern at ITJOBXS, contributing to responsive web development, ReactJS components, API integration, authentication, data verification, and website security.
 
 I enjoy strengthening my Java and DSA skills, learning modern web technologies, and continuously improving my development skills. 🚀
 
 My Tech Toolkit 🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,react,flask,mongodb,mysql,git,github,vscode&perline=7" width="850"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,flask,mysql,mongodb,git&perline=10" width="850"/>
 </p>
-
-💻 Languages
-
-Java • Python • JavaScript (ES6) • SQL
-
-🌐 Frontend
-
-HTML5 • CSS3 • Tailwind CSS • ReactJS • Bootstrap
-
-⚙️ Backend & Database
-
-Flask • PHP • MySQL • MongoDB • REST APIs
-
-🔧 Tools
-
-Git • GitHub • VS Code
 
 💼 Experience
 
-SDE Intern — ITJOBXS
+🚀 SDE Intern — ITJOBXS
 
 August 2026 – Present | Remote, India
 
@@ -50,7 +34,7 @@ Integrating Google reCAPTCHA and contributing to fake-bot and fraudulent-post de
 
 Contributing to new features and API development with the team.
 
-Mentor Intern — HCL GUVI
+👨‍🏫 Mentor Intern — HCL GUVI
 
 August 2025
 
@@ -94,3 +78,6 @@ Supported debugging, troubleshooting, and programming concepts.
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
+<p align="center">
+  <b>Learn. Build. Improve. Repeat. 🚀</b>
+</p>
