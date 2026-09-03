@@ -1,5 +1,4 @@
-<h1 align="center">
-  <strong>Hey there, I'm Vishal Chaudhary! 👋</strong>
+<h1 align="center"> <strong>Hey there, I'm Vishal Chaudhary! 👋</strong>
 </h1>
 
 ## **About Me**
