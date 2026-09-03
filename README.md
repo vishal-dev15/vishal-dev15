@@ -1,4 +1,14 @@
 ## Hi there 👋
+Hey, I'm Vishal Chaudhary 👋
+💻 Software Developer | Java | DSA | Full-Stack Development
+
+I enjoy building real-world applications, solving problems with Data Structures & Algorithms, and learning how to write clean, maintainable code.
+
+🚀 SDE Intern, working on real-world web development
+☕ Strong focus on Java, OOP & DSA
+🌐 Building responsive and user-focused web applications
+🔧 Interested in Full-Stack Development & Software Engineering
+📈 Continuously learning, building, and improving
 
 <!--
 **vishal-dev15/vishal-dev15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
