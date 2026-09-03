@@ -2,15 +2,15 @@
 
 ## **About Me**
 
-I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias University** and an **SDE Intern at ITJOBXS**, focused on software development and web technologies.  
-🏆 **Hackathon Winner:** Internal Hackathon @ Galgotias University and International Hackathon with institutions from Singapore & Maldives.  
-🌱 Currently learning **AI/ML** while improving my **Java, DSA, and full-stack development** skills.  
-👯 Open to **Web Development / AI/ML** collaborations and discussions around **Web Development & Web Technologies**.
+I'm **Vishal Chaudhary**, a CSE student at **Galgotias University** and currently working as an **SDE Intern at ITJOBXS**.  
+I enjoy turning ideas into websites, breaking things while coding, and then fixing them like nothing happened. 😄  
+I've also won **2 hackathons** — one at Galgotias University and one international hackathon with institutions from Singapore & Maldives.  
+Currently exploring **AI/ML**, while improving my **Java, DSA, and full-stack development** skills.
 
 ## **My Tech Toolkit ✨**
 
-- **Frontend Fanatic:** Crafting clean interfaces and making websites easy to use.
-- **Java Explorer:** Writing Java code, solving problems, and improving my DSA.
+- **Frontend Fanatic:** Making pixels behave and turning designs into something people can actually use.
+- **Java Explorer:** Writing Java, solving DSA problems, and occasionally arguing with bugs. ☕
 - **Backend Learner:** Exploring APIs, Flask, databases, and full-stack development.
 
 <p align="center">
@@ -24,9 +24,9 @@ I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias 
 **August 2026 – Present | Remote, India**
 
 - Building responsive web pages and reusable **ReactJS components**.
-- Contributing to UI development, API integration, data verification, and authentication.
-- Working with HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Styled Components.
-- Integrating **Google reCAPTCHA** and contributing to fake-bot and fraudulent-post detection.
+- Working with UI development, API integration, authentication, and data verification.
+- Using technologies like **HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Styled Components**.
+- Working with **Google reCAPTCHA** and helping with fake-bot and fraudulent-post detection.
 - Contributing to new features and API development with the team.
 
 ### **👨‍🏫 Mentor Intern — HCL GUVI**
@@ -34,8 +34,7 @@ I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias 
 **August 2025**
 
 - Guided **50+ learners** during the JIGSAW Internship.
-- Helped resolve Java, Python, and web-development queries.
-- Supported debugging, troubleshooting, and programming concepts.
+- Helped with Java, Python, web-development, debugging, and programming-related queries.
 
 ## **📊 GitHub Stats**
 
@@ -55,18 +54,24 @@ I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias 
 
 ## **🤝 Connect With Me**
 
-**LinkedIn:** [YOUR_LINKEDIN_URL]
+**LinkedIn:** [Vishal Chaudhary](https://www.linkedin.com/in/vishal-chaudhary-23a946299/)
 
 **Email:** [vishalc362535@gmail.com](mailto:vishalc362535@gmail.com)
 
 <p align="center">
 
-**Always learning, always building, and always getting better. 🚀**
+**Got an idea, a bug, or just want to say hi? My inbox is open. 😄**
 
 </p>
 
----
+<p align="center">
+
+**Code • Coffee • Debug • Repeat ☕💻**
+
+</p>
+
+<!-- Colorful animated wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00C6FF,30:0072FF,60:7F00FF,100:00D4FF&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:2196F3,25:F44336,50:FFC107,75:4CAF50,100:9C27B0&animation=twinkling" width="100%"/>
 </p>
