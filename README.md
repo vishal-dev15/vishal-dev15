@@ -1,83 +1,42 @@
 Hey there, I'm Vishal Chaudhary! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;SDE+Intern+%40+ITJOBXS;Java+%7C+DSA+%7C+Web+Development;Learn.+Build.+Improve.+Repeat." />
-</p>
-
 About Me
 
-Hey there! I'm Vishal Chaudhary, a Computer Science Engineering student at Galgotias University, passionate about software development, problem solving, and building responsive web applications.
+Hey there! I'm Vishal Chaudhary, currently pursuing my B.Tech in Computer Science and Engineering at Galgotias University. I'm passionate about software development, problem solving, and creating responsive web experiences.
 
-Currently, I'm working as an SDE Intern at ITJOBXS, contributing to responsive web development, ReactJS components, API integration, authentication, data verification, and website security.
+I'm currently working as an SDE Intern at ITJOBXS, where I'm gaining practical experience in web development, API integration, authentication, data verification, and database technologies.
 
-I enjoy strengthening my Java and DSA skills, learning modern web technologies, and continuously improving my development skills. 🚀
+I'm continuously improving my coding skills and working toward becoming a strong software developer.
 
-My Tech Toolkit 🛠️
+My Tech Toolkit ✨
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,flask,mysql,mongodb,git&perline=10" width="850"/>
+Frontend Fanatic: I build responsive web experiences using HTML, CSS, JavaScript, and React.
+
+Java Explorer: I enjoy solving problems and strengthening my DSA skills with Java.
+
+Full-Stack Dreamer: I work with backend technologies, APIs, databases, and modern development tools.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="62" />
 </p>
 
-💼 Experience
+Github Stats
 
-🚀 SDE Intern — ITJOBXS
-
-August 2026 – Present | Remote, India
-
-Building responsive web pages and reusable ReactJS components.
-
-Contributing to UI development, API integration, data verification, and authentication.
-
-Working with HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Styled Components.
-
-Integrating Google reCAPTCHA and contributing to fake-bot and fraudulent-post detection.
-
-Contributing to new features and API development with the team.
-
-👨‍🏫 Mentor Intern — HCL GUVI
-
-August 2025
-
-Guided 50+ learners during the JIGSAW Internship.
-
-Helped resolve Java, Python, and web-development queries.
-
-Supported debugging, troubleshooting, and programming concepts.
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=tokyonight&hide_border=true" width="850"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-dev15&theme=dark&hide_border=false" height="190" />
 </p>
 
-📈 GitHub Activity
+Connect With Me 🚀
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-dev15&theme=tokyo-night&hide_border=true&area=true" width="950"/>
-</p>
+LinkedIn: Vishal Chaudhary
 
-🤝 Connect With Me
+Email: vishalc362535@gmail.com
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vishalc362535@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Please feel free to contact me if you're interested in collaborating, coding discussions, or sharing insights on my repositories.
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
-
-<p align="center">
-  <b>Learn. Build. Improve. Repeat. 🚀</b>
-</p>
+P.S. Don't forget to star ⭐ this repo if you find it interesting.
