@@ -1,9 +1,5 @@
 # **Hey there, I'm Vishal Chaudhary! 👋**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Vishal%20Chaudhary&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Learn%20%7C%20Build%20%7C%20Improve&descAlignY=62&descSize=18" width="100%"/>
-</p>
-
 ## **About Me**
 
 Hey there! I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias University**, passionate about software development, problem solving, and web development.
@@ -79,5 +75,5 @@ I enjoy strengthening my **Java and DSA skills**, learning modern technologies, 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:36BCF7,33:8A2BE2,66:00D4FF,100:7B2FF7" width="100%"/>
 </p>
