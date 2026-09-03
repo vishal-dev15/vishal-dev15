@@ -1,61 +1,98 @@
-<div align="center">
+# Hey there, I'm Vishal Chaudhary! 👋
 
-Hey there, I'm Vishal Chaudhary! 👋
+## About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;SDE+Intern+%40+ITJOBXS;Java+%7C+DSA+%7C+Web+Development;Learn.+Build.+Improve.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
+Hey there! I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias University**, passionate about software development, problem solving, and building responsive web applications.
 
-</div>
+I'm currently working as an **SDE Intern at ITJOBXS**, where I'm involved in responsive web development, ReactJS components, API integration, authentication, data verification, and website security.
 
-About Me
+I enjoy solving **Data Structures & Algorithms problems using Java**, exploring web technologies, and continuously improving my software development skills. 🚀
 
-Hey there! I'm Vishal Chaudhary, currently pursuing my B.Tech in Computer Science and Engineering at Galgotias University. I'm passionate about software development, problem solving, and creating responsive web experiences.
+## My Tech Toolkit 🛠️
 
-I'm currently working as an SDE Intern at ITJOBXS, gaining practical experience in web development, API integration, authentication, data verification, and database technologies.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,react,flask,mongodb,mysql,git,github,vscode" />
+</p>
 
-I'm continuously improving my coding skills and working toward becoming a strong software developer.
+### 💻 Languages
+**Java • Python • JavaScript (ES6) • SQL**
 
-My Tech Toolkit ✨
+### 🌐 Frontend
+**HTML5 • CSS3 • Tailwind CSS • ReactJS • Bootstrap**
 
-Frontend Fanatic: I build responsive web experiences using HTML, CSS, JavaScript, and React.
+### ⚙️ Backend
+**Flask • REST APIs**
 
-Java Explorer: I enjoy solving problems and strengthening my DSA skills with Java.
+### 🗄️ Databases
+**MongoDB • MySQL**
 
-Full-Stack Dreamer: I work with backend technologies, APIs, databases, and modern development tools.
+### 🔧 Tools
+**Git • GitHub • VS Code**
 
-<div align="center">
+## 💼 Experience
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="72" />
+### 🚀 SDE Intern — ITJOBXS
+**August 2026 – Present | Remote, India**
 
-</div>
+- Building responsive web pages and reusable **ReactJS components**.
+- Contributing to UI development, API integration, data verification, and authentication.
+- Working with HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Styled Components.
+- Integrating **Google reCAPTCHA** and contributing to fake-bot and fraudulent-post detection.
+- Contributing to new features and API development with the team.
 
-Github Stats
+### 👨‍🏫 Mentor Intern — HCL GUVI
+**August 2025**
 
-<div align="center">
+- Guided **50+ learners** during the JIGSAW Internship.
+- Helped resolve Java, Python, and web-development queries.
+- Supported debugging, troubleshooting, and programming concepts.
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="190" />
+<p align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-dev15&theme=dark&hide_border=false" width="820" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-Connect With Me 🚀
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-dev15&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Vishal%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vishalc362535@gmail.com">
-<img src="https://img.shields.io/badge/Email-vishalc362535%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-Please feel free to contact me if you're interested in collaborating, coding discussions, or sharing insights.
+---
 
-⭐ Keep Coding • Keep Learning • Keep Building 🚀
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Coding • Keep Learning • Keep Building 🚀**
+
+</p>
