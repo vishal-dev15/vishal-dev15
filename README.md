@@ -2,19 +2,19 @@
 
 ## **About Me**
 
-I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias University** and an **SDE Intern at ITJOBXS**, focused on software development, responsive web applications, and modern web technologies.  
-🏆 **Hackathon Winner:** Internal Hackathon @ Galgotias University and International Hackathon in collaboration with institutions from Singapore & Maldives.  
-🌱 Currently learning **AI/ML** while strengthening **Java, DSA, and full-stack development**.  
-👯 Open to collaborating on **Web Development / AI/ML** projects and happy to discuss **Web Development and Web Technologies**.
+I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias University** and an **SDE Intern at ITJOBXS**, focused on software development and web technologies.  
+🏆 **Hackathon Winner:** Internal Hackathon @ Galgotias University and International Hackathon with institutions from Singapore & Maldives.  
+🌱 Currently learning **AI/ML** while improving my **Java, DSA, and full-stack development** skills.  
+👯 Open to **Web Development / AI/ML** collaborations and discussions around **Web Development & Web Technologies**.
 
 ## **My Tech Toolkit ✨**
 
-- **Frontend Fanatic:** Building responsive and user-friendly web experiences.
-- **Java Explorer:** Strengthening Java and Data Structures & Algorithms.
+- **Frontend Fanatic:** Crafting clean interfaces and making websites easy to use.
+- **Java Explorer:** Writing Java code, solving problems, and improving my DSA.
 - **Backend Learner:** Exploring APIs, Flask, databases, and full-stack development.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="80"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="80"/>
 </p>
 
 ## **💼 Experience**
@@ -40,39 +40,33 @@ I'm **Vishal Chaudhary**, a Computer Science Engineering student at **Galgotias 
 ## **📊 GitHub Stats**
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=tokyonight&hide_border=true&ring=00C6FF&fire=7F00FF&currStreakLabel=00C6FF" width="850"/>
+
 </p>
 
 ## **🤝 Connect With Me**
 
-**LinkedIn:** [YOUR_LINKEDIN_URL]  
+**LinkedIn:** [YOUR_LINKEDIN_URL]
+
 **Email:** [vishalc362535@gmail.com](mailto:vishalc362535@gmail.com)
 
 <p align="center">
-<b>Let's connect, learn, and build something meaningful together. 🚀</b>
+
+**Always learning, always building, and always getting better. 🚀**
+
 </p>
 
 ---
 
 <p align="center">
-
-<b>Keep Coding • Keep Learning • Keep Building 🚀</b>
-
-</p>
-
-<!-- Mountain-style footer -->
-<p align="center">
-  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 180 L170 65 L300 145 L450 35 L620 150 L770 55 L930 140 L1080 45 L1200 120 V180 Z"
-          fill="#1E88E5"/>
-    <path d="M0 180 L240 100 L390 155 L560 75 L730 155 L900 90 L1040 150 L1200 80 V180 Z"
-          fill="#7E57C2"/>
-    <path d="M0 180 L150 125 L300 165 L500 105 L680 165 L850 115 L1000 160 L1200 105 V180 Z"
-          fill="#26C6DA"/>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00C6FF,30:0072FF,60:7F00FF,100:00D4FF&animation=twinkling" width="100%"/>
 </p>
