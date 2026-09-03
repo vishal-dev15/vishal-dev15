@@ -1,5 +1,6 @@
-## Hi there 👋
-Hey, I'm Vishal Chaudhary 👋
+## Hi there , I'm Vishal Chaudhary 👋
+About me 
+
 💻 Software Developer | Java | DSA | Full-Stack Development
 
 I enjoy building real-world applications, solving problems with Data Structures & Algorithms, and learning how to write clean, maintainable code.
