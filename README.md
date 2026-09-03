@@ -1,7 +1,7 @@
 # **Hey there, I'm Vishal Chaudhary! 👋**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Vishal%20Chaudhary&fontSize=38&fontAlignY=38&animation=fadeIn&desc=Learn%20%7C%20Build%20%7C%20Improve&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Vishal%20Chaudhary&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Learn%20%7C%20Build%20%7C%20Improve&descAlignY=62&descSize=18" width="100%"/>
 </p>
 
 ## **About Me**
@@ -19,7 +19,7 @@ I enjoy strengthening my **Java and DSA skills**, learning modern technologies, 
 - **Backend Learner:** Exploring APIs, Flask, databases, and full-stack development.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="70"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,flask,mysql,mongodb,git&perline=10" height="80"/>
 </p>
 
 ## **💼 Experience**
@@ -45,14 +45,17 @@ I enjoy strengthening my **Java and DSA skills**, learning modern technologies, 
 ## **📊 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=radical&hide_border=true" height="190"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishal-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev15&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
+
 </p>
 
-## **🔥 GitHub Streak**
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=radical&hide_border=true&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="850"/>
+
+<img src="https://streak-stats.demolab.com?user=vishal-dev15&theme=tokyonight&hide_border=true&ring=36BCF7&fire=8A2BE2&currStreakLabel=36BCF7" width="850"/>
+
 </p>
 
 ## **🤝 Connect With Me**
@@ -62,11 +65,17 @@ I enjoy strengthening my **Java and DSA skills**, learning modern technologies, 
 **Email:** [vishalc362535@gmail.com](mailto:vishalc362535@gmail.com)
 
 <p align="center">
-  <b>Let's connect, learn, and build something meaningful together. 🚀</b>
+
+**Let's connect, learn, and build something meaningful together. 🚀**
+
 </p>
 
+---
+
 <p align="center">
-  <i>Keep Coding • Keep Learning • Keep Building</i>
+
+**Learn • Build • Improve • Repeat. 🚀**
+
 </p>
 
 <p align="center">
