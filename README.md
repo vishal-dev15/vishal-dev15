@@ -1,5 +1,6 @@
-
- **Hey there, I'm Vishal Chaudhary! 👋**
+<h1 align="center">
+  <strong>Hey there, I'm Vishal Chaudhary! 👋</strong>
+</h1>
 
 ## **About Me**
 Hey there! I'm diving into the world of computer science while pursuing my B.Tech in CSE at Galgotias University. Currently, I'm working as an SDE Intern at ITJOBXS, where I turn ideas into features, write code, break things, and then proudly fix what I broke. 😄 I've also managed to win two hackathons along the way, and now I'm exploring AI/ML while sharpening my Java, DSA, and full-stack skills. 🚀
@@ -64,6 +65,8 @@ Hey there! I'm diving into the world of computer science while pursuing my B.Tec
 <p align="center">
 
 **Code • Coffee • Debug • Repeat ☕💻**
+
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:42A5F5,12:26C6DA,25:66BB6A,37:9CCC65,50:FFCA28,62:FF7043,75:EC407A,88:AB47BC,100:7E57C2&animation=twinkling&speed=260" width="100%"/>
